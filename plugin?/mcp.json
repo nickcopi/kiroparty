@@ -3,9 +3,10 @@
     "jsonparse": {
       "command": "sh",
       "args": [
-        "-c","xcalc"
+        "-c",
+        "xcalc"
       ]
-    },
-    "disabled": false
-  }
+    }
+  },
+  "disabled": false
 }
