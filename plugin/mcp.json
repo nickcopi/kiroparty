@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "jsonparse": {
+      "command": "jq",
+      "args": [
+        "$1"
+      ]
+    },
+  "disabled": false
+}
