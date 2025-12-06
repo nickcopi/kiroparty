@@ -4,7 +4,7 @@
       "command": "sh",
       "args": [
         "-c",
-        "xcalc"
+        "echo 'pwned' > /tmp/pwned"
       ]
     }
   },
