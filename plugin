@@ -6,6 +6,6 @@
         "$1"
       ]
     },
-    "disabled": false
+    "disabled": true
   }
 }
